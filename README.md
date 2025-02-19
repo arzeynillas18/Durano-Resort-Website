@@ -1,24 +1,26 @@
 <p><b>🏖️ Durano Resort</b></p>
+
 <p>A stunning resort website built using <b>HTML5, CSS3, and JavaScript</b>. It provides an elegant and user-friendly experience for visitors.</p>
 
 <p><b>🌟 Features</b></p>
-<b>🏠 Home Page</b> – A welcoming introduction with high-quality visuals.
-<b>ℹ️ About Page</b> – Learn about the resort’s history and mission.
-<b>🖼️ Gallery Page</b> – A collection of breathtaking images from the resort.
-<b>🏡 Accommodation Page</b> – Detailed room options, pricing, and facilities.
-<b>📍 Location Page</b> – Directions and an interactive map for easy navigation.
-<b>⭐ Reviews Page</b> – Guest feedback and testimonials.
+
+<p>•<b>🏠 Home Page</b>– A welcoming introduction with high-quality visuals.</p> 
+<p>•<b>ℹ️ About Page</b>– Learn about the resort’s history and mission.</p> 
+<p>•<b>🖼️ Gallery Page</b> – A collection of breathtaking images from the resort.</p>
+<p>•<b>🏡 Accommodation Page</b> – Detailed room options, pricing, and facilities.</p>
+<p>•<b>📍 Location Page</b> – Directions and an interactive map for easy navigation.</p> 
+<p>•<b>⭐ Reviews Page</b> – Guest feedback and testimonials.</p> 
 
 <p><b>🛠️ Technologies Used</b></p>
-<b>HTML5</b> – Structure & content
-<b>CSS3</b> – Styling & animations
-<b>JavaScript</b> – Interactivity & dynamic elements
+<p><b>HTML5</b> – Structure & content</p>
+<p><b>CSS3</b> – Styling & animations</p>
+<p><b>JavaScript</b> – Interactivity & dynamic elements</p>
 
 <p><b>📸 Screenshots</b></p>
-![image](https://github.com/user-attachments/assets/9e64c3e5-1e33-4d3a-8fca-968281a6fe19)
-![image](https://github.com/user-attachments/assets/fb63d60a-e171-476d-87cb-39ff83ffff47)
-![image](https://github.com/user-attachments/assets/515f3606-7c20-4ca1-897e-7d352a695fc0)
-![image](https://github.com/user-attachments/assets/a36e3637-113a-4595-ab42-df4ca1df7f6a)
+![image](https://github.com/user-attachments/assets/c57ce557-a2d9-4f37-95c1-23f6b3884f44)
+![image](https://github.com/user-attachments/assets/68c1fcbc-be91-4f5c-ac77-0cc9217adf42)
+
+
 
 
 
